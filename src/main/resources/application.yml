@@ -1,0 +1,10 @@
+server:
+  port: 9999
+
+aliyun:
+  ddns:
+    access-key-id: YouKeyID
+    access-key-secret: YourKeySecret
+    domain-name: yourdomain.com
+    key-word: www
+    type: AAAA
